@@ -65,7 +65,7 @@
     color: white;
 }
 
-.menu-button:hover .overlay {
+.overlay:hover {
     opacity: 1;
     backdrop-filter: blur(3px);
     color: pink;
